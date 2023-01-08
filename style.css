@@ -1,5 +1,23 @@
-h1 {
-    font-family: 'Teko'; }
+:root {
+    --fondo: #181818;
+    --texto: white;
+    --ppal-fuerte: #40434E;
+    --contraste-suave: #EEB044;
+    --contraste-fuerte: #FF0A0A;
 
+}
+
+
+.hero {
+    background-color:var(--fondo);
+    font-size: 20px;
+}
+#tecno {
+    font-family: 'Teko';
+    color: var(--contraste-fuerte)}
+
+    #alberdi {
+        font-family: 'Teko';
+        color: var(--contraste-suave)}
 p { 
     font-family: 'Inter'; }
