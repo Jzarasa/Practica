@@ -4,7 +4,6 @@
     --ppal-fuerte: #40434E;
     --contraste-suave: #EEB044;
     --contraste-fuerte: #FF0A0A;
-
 }
 
 
@@ -14,17 +13,21 @@
     height: 150px;
 }
 
+#tecnoalberdi {
+    padding-left: 10px;
+    padding-top: 100px;
+}
 
 #tecno {
     font-family: 'Lato';
     color: var(--contraste-fuerte);
-    padding-left: 10px;
-    padding-top: 100px;
-    
 }
 
-    #alberdi {
-        font-family: 'Lato Thin', cursive;
-        color: var(--contraste-suave)}
+#alberdi {
+    font-family: 'Lato';
+    color: var(--contraste-suave);
+}
+
 p { 
-    font-family: 'Inter'; }
+    font-family: 'Inter'; 
+}
