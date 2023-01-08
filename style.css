@@ -11,10 +11,17 @@
 .hero {
     background-color:var(--fondo);
     font-size: 20px;
+    height: 150px;
 }
+
+
 #tecno {
     font-family: 'Teko';
-    color: var(--contraste-fuerte)}
+    color: var(--contraste-fuerte);
+    padding-left: 10px;
+    padding-top: 100px;
+    
+}
 
     #alberdi {
         font-family: 'Teko';
